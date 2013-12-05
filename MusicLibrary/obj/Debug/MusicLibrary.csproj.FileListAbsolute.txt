@@ -1,0 +1,5 @@
+C:\Users\Suho Lee\documents\visual studio 2013\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Suho Lee\documents\visual studio 2013\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.dll
+C:\Users\Suho Lee\documents\visual studio 2013\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+C:\Users\Suho Lee\documents\visual studio 2013\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.dll
+C:\Users\Suho Lee\documents\visual studio 2013\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
