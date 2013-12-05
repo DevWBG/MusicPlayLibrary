@@ -137,6 +137,7 @@ namespace MusicLibrary
         public override bool FileInput(string strFilePath)
         {
             m_mp3File.m_strFilePath = strFilePath;
+            Close();
             if (error != 0)
             {
                 // Let MCI deside which file type the song is
